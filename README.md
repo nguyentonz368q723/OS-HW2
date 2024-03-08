@@ -28,12 +28,13 @@ This is the homework 2 from Nguyen Huu Tam Ton.
 - Display a detailed list of all processes along with their respective lottery tickets.
 - Execute the lottery draw to randomly select a winning ticket, announcing the corresponding process as the winner of the scheduling slot.
 
-**Grading Standards
-1. Functionality:**
+**Grading Standards**
+**1. Functionality:**
    - Appropriately implementing the Process class, which includes managing lottery tickets and a unique identity.
 Accurate distribution and handling of lottery tickets for every procedure.
-The Scheduler class is implemented using the required methods.
+   - The Scheduler class is implemented using the required methods.
    - Appropriate management of the random number generator lottery scheduling technique.
+    
 **2. Script Submission:**
   - Make sure the script is properly submitted through the appropriate platform.
   - Offer sufficient justification for the implementation decisions through comments or documentation.
